@@ -1,0 +1,2 @@
+LINK: https://codevoweb.com/rust-actix-web-build-crud-api-with-sqlx-and-mysql/
+RUN: cargo watch -q -c -w src/ -x run
