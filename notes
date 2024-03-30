@@ -1,6 +1,6 @@
 LINK: 
   https://codevoweb.com/rust-actix-web-build-crud-api-with-sqlx-and-mysql/
-RUN: 
+RUN: carg
   cargo install sqlx-cli
   sqlx migrate run
   cargo build
